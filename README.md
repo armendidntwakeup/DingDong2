@@ -1,4 +1,5 @@
 # DingDong2
+<<<<<<< HEAD
 <html>
 	<head>
 		<title>Gorilla</title>
@@ -15,3 +16,6 @@
 		</div>
 	</body>
 </html>
+=======
+armen
+>>>>>>> 0c1a0f8c3b7ef96c0f63bef08b80b4643552bc9d
